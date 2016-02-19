@@ -1,5 +1,5 @@
 {
-  "main": [
-    "src/jquery.fontselector.js"
-  ]
+  "name": "jQuery-Font-Chooser",
+  "version": "0.1",
+  "main":  "./src/jquery.fontselector.js"
 }
